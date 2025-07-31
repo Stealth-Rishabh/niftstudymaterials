@@ -2598,7 +2598,7 @@
                     // Send the form data in the background after setting up the redirect
                     // This will continue even after the page starts to navigate away
                     setTimeout(function () {
-                        fetch('brds_crm_api.php', {
+                        fetch('brds_crm_api_nift.php', {
                             method: 'POST',
                             body: formData,
                             // No need to wait for response
