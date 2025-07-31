@@ -864,7 +864,7 @@
                     <h3 class="course-title_exam">Expert's support and guidance</h3>
                   </div>
                   <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Expert Support" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                    <img src="https://rathoredesign.com/wp-content/uploads/2025/05/admission-at-brds.png" alt="Expert Support" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
                   </div>
                 </div>
               </div>
@@ -876,7 +876,7 @@
                     <h3 class="course-title_exam">Doubt Solving workshops</h3>
                   </div>
                   <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Doubt Solving Workshops" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                    <img src="https://rathoredesign.com/wp-content/uploads/2025/05/online-coaching.png" alt="Doubt Solving Workshops" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
                   </div>
                 </div>
               </div>
@@ -888,7 +888,7 @@
                     <h3 class="course-title_exam">Free NIFT Situation test coaching kit</h3>
                   </div>
                   <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="NIFT Situation Test Kit" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                    <img src="https://rathoredesign.com/wp-content/uploads/2022/08/nift-situation-1.jpeg" alt="NIFT Situation Test Kit" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
                   </div>
                 </div>
               </div>
@@ -1423,7 +1423,7 @@
 
 <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
     <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-        src="./images/nid_mock_test_papers.png" alt="NID Tab Background">
+        src="./images/nift_mock_test.png" alt="NID Tab Background">
     <img class="nid_study_img mobile-img" style="height: 500px;"
         src="./images/nift_study_newt.png" alt="NID Tab Background">
 </section>
@@ -1444,7 +1444,7 @@
 </style>
 <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
     <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-        src="./images/nid_bdesign_papers.png" alt="NID Tab Background">
+        src="./images/nift_situation_test.png" alt="NID Tab Background">
     <img class="nid_study_img mobile-img" style="height: 500px;"
         src="./images/nift_study_newt.png" alt="NID Tab Background">
 </section>
@@ -1465,7 +1465,7 @@
 </style>
 <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
     <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-        src="./images/nid_dat_mains.png" alt="NID Tab Background">
+        src="./images/nift_bftech.png" alt="NID Tab Background">
     <img class="nid_study_img mobile-img" style="height: 500px;"
         src="./images/nift_study_newt.png" alt="NID Tab Background">
 </section>
