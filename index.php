@@ -46,15 +46,21 @@
         gtag('js', new Date());
         gtag('config', 'G-QF56WX8800');
     </script>
-    <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start': new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WSZX8D67');</script>
-    <!-- End Google Tag Manager -->
+   <!-- Google Tag Manager --> 
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
+    
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
+    
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
+    
+    })(window,document,'script','dataLayer','GTM-T6MCL33M');</script> 
+    
+    <!-- End Google Tag Manager --> 
+    
+     
     <style>
         /* Improved styles for better readability and spacing */
         body {
@@ -638,7 +644,7 @@
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSZX8D67" height="0" width="0"
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6MCL33M" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     <header>
@@ -695,7 +701,7 @@
                 <div class="col-md-6 col-12" id="form">
                     <div class="banner-right text-center mx-auto ms-lg-auto me-lg-0 mw-">
                         <h3>Admissions Open</h3>
-                        <form method="post" action="brds_crm_api.php" enctype="multipart/form-data" id="brds_form">
+                        <form method="post" action="brds_crm_api_nift.php" enctype="multipart/form-data" id="brds_form">
                             <div class="col-12">
                                 <input type="text" name="Name" class="form-control shadow-none border-0" id="name"
                                     placeholder="Enter Name" required pattern="[A-Za-z\s]+"
@@ -704,7 +710,7 @@
                             </div>
                             <div class="col-12">
                                 <input type="tel" class="form-control shadow-none border-0" name="phone"
-                                    id="phone_number" placeholder="Enter Phone Number*" maxlength="10" minlength="10"
+                                    id="phone_number" placeholder="Enter Phone Number" maxlength="10" minlength="10"
                                     required pattern="[6-9][0-9]{9}"
                                     title="Please enter valid 10 digit mobile number starting with 6-9"
                                     onkeypress="return /[0-9]/i.test(event.key)">
@@ -732,7 +738,7 @@
                                 <select name="course"
                                     style="width: 100%; padding: 12px; margin-bottom: 15px; border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 5px; background: white;"
                                     required>
-                                    <option value="">Select</option>
+                                    <option value="">Select Course</option>
                                     <option value="NID">NID</option>
                                     <option value="NIFT">NIFT</option>
                                     <option value="CEED">CEED</option>
@@ -762,8 +768,8 @@
                                 <input type="hidden" id="mediumId" name="medium" value="<?php if (isset($_GET['utm_medium'])) {
                                     echo $_GET['utm_medium'];
                                 } ?>" />
-                                <input type="hidden" name="orderid" value="1021" />
-                                <input type="hidden" name="sitename" value="NIDCOACHING" />
+                                <input type="hidden" name="orderid" value="1037" />
+                                <input type="hidden" name="sitename" value="NIFTCOACHING" />
                                 <input type="submit" class="banner-form-btn" value="Apply Now" name="submit" />
                             </div>
                         </form>
@@ -1234,27 +1240,7 @@
         });
     });
 </script>
-    <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
-        <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-            src="./images/nift_study_newp.png" alt="NID Tab Background">
-        <img class="nid_study_img mobile-img" style="height: 500px;"
-            src="./images/nift_study_newt.png" alt="NID Tab Background">
-    </section>
-    <style>
-        .mobile-img {
-            display: none;
-        }
-
-        @media screen and (max-width: 768px) {
-            .desktop-img {
-                display: none;
-            }
-
-            .mobile-img {
-                display: block;
-            }
-        }
-    </style>
+   
   <section class="nid_books_section">
     <div class="nid_books_container">
         <!-- Section Header -->
